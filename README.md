@@ -7,7 +7,7 @@ Contiene 2 archivos:
  - `TrabajoPrácticoIntegradorAA1.ipynb` : Colab con el codigo python y explicacion del proyecto.
 
 
-El dataset contiene aproximadamente 10 años de observaciones diarias de variables climáticas: temperatura, dirección y velocidad del viento, humedad, presión, nubosidad, y cantidad de lluvia en mm.
+El dataset contiene aproximadamente 10 años de observaciones diarias de variables climáticas de Australia: temperatura, dirección y velocidad del viento, humedad, presión, nubosidad, y cantidad de lluvia en mm.
 Tras observar los datos del día de hoy, el objetivo es predecir las variables target:
                                                                                
 -   `RainFallTomorrow`: cantidad de lluvia del día posterior a la observación.   **Problema de Regresión**.
