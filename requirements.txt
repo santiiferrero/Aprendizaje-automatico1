@@ -1,0 +1,4 @@
+joblib
+scikit-learn
+tensorflow==2.14.0
+tensorflow-addons
